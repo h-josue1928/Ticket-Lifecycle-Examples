@@ -35,6 +35,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Click 'Create Ticket' 
   - Once the ticket is created you'll get an automatic thank you message from the Support Team
 
+![image](https://github.com/user-attachments/assets/3b4cd8a1-a8f0-4528-b560-386468749430)
+
+![image](https://github.com/user-attachments/assets/552b51a0-2397-405c-a3ac-819dbec3f4ae)
+
+
+
 
 Work your Tickets!
 
@@ -63,6 +69,15 @@ Congratulations, your troubleshoot was sucessful! Back to working tickets!
      -Post Reply
 - To view 'Closed' tickets, simply click 'Closed' and you should see the ticket that was just resolved
 
+  ![image](https://github.com/user-attachments/assets/0d279c13-ce62-4c36-847f-d65846d6d8b3)
+
+  ![image](https://github.com/user-attachments/assets/aaf8001f-029b-4e7e-b786-3f4674a515d0)
+
+  ![image](https://github.com/user-attachments/assets/45a7ef8b-62ad-4e97-830f-9d5a45265d45)
+
+  
+
+
 
 Going back to Open Tickets: 
 
@@ -83,6 +98,12 @@ Work your last ticket:
 - Assign to an Agent (either Jane or John)
 - Enter a brief note in the empty reponse box
 - Resolve the ticket if you are already signed in as the Agent assigned for the ticket
+
+  ![image](https://github.com/user-attachments/assets/1578aae4-802b-44ab-9fc7-914d2df4c469)
+
+  ![image](https://github.com/user-attachments/assets/91833e95-2663-4c91-b708-fde70217fa6a)
+
+
 
 
 Log back in as John and resolve that ticket:
